@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "virtual-venue-staging",
+    "staging": "virtual-venue-staging",
+    "production": "virtual-venue"
+  }
+}
